@@ -28,8 +28,9 @@ p.add_argument('-j', '--jl_only', action="store_true", default=False)
 p.add_argument('-a', '--all', action="store_true", default=False)
 p.add_argument('env_name')
 if __name__ == '__main__':
-    env_name = args.env_name
+
     args = p.parse_args()
+    env_name = args.env_name
     if args.all:
         args.jl_only = True
         args.env_only = True
