@@ -1,0 +1,13 @@
+@jupyter-widgets/jupyterlab-manager
+@jupyterlab/celltags
+@jupyterlab/github
+@jupyterlab/github
+@jupyterlab/latex
+@jupyterlab/plotly-extension
+@jupyterlab/statusbar
+@jupyterlab/toc
+@jupyterlab/xkcd-extension
+jupyterlab-drawio
+jupyterlab_bokeh
+jupyterlab_nbmetadata
+nbdime-jupyterlab
